@@ -1,2 +1,2 @@
-# projects
-projects .env file needs to be created with three variables for the project to work with Reddit API.
+# project
+Main.py needs a .env file that will be created with three variables to work with the Reddit API
