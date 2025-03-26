@@ -1,0 +1,10 @@
+Create a Reddit App to obtain your client_id, client_secret, and user_agent:
+
+Go to Reddit Apps.
+
+Click "Create an App" and fill out the details.
+
+Copy the Client ID and Client Secret for use in your script.
+
+Replace "YOUR_CLIENT_ID", "YOUR_CLIENT_SECRET", and "YOUR_USER_AGENT" with your actual credentials.
+
